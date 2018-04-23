@@ -1,0 +1,69 @@
+.navbar{
+	min-height: 40px;
+}
+.login_panel{
+	top: 300px;
+	position: absolute;
+	width: 800px;
+	height:340px;
+	margin-left: 150px;
+	border: 4px solid #3A88E2;
+	border-radius: 7px;
+}
+.login_icon{
+	width: 380px;
+	height: 330px;
+	float: left;
+	border-right: 1px solid #3A88E2;
+	background: url('../image/login.png')-35px -42px  no-repeat;
+}
+.login_txt{
+	width: 400px;
+	height: 340px;
+	float: right;
+}
+.login{
+	margin-top: 30px;
+	margin-left: 65px;
+
+}
+.login_title{
+	width: 400px;
+	height: 50px;
+	margin-top: 30px;
+	font-size: 17px;
+	text-align: center;
+}
+.login span{
+	padding-top: 1px;
+	font-size: 15px;
+	padding:4px 12px 4px 12px ;
+	height: 30px;
+}
+.login input{
+	height: 30px;
+	padding: 0px;
+	margin-top: 1px;
+}
+.submit{
+	margin-top: 40px;
+	margin-left: 135px;
+}
+.login_bottom{
+	width:100%;
+	height: 80px;
+	top:700px;
+	position: absolute;
+	border-top: 2px solid #D4CACA
+}
+.login_bottom div{
+	margin-top: 10px;
+	text-align: center;
+}
+.bottom div span{
+	padding-right: 10px;
+}
+input:focus{
+	border:1px solid #f00;
+	background:#fcc;
+}

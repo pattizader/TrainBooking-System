@@ -1,0 +1,74 @@
+.guide_content{
+	top:271px;
+	position: absolute;
+	width: 900px;
+	height: 395px;
+	border:2px solid #3A88E2;
+	border-radius: 7px;
+	margin-left: 103px;
+}
+.guide_tab ul li{
+	width:224px;
+	text-align: center;
+}
+.guide_tab ul li a:hover{
+	background: #C9DEDC;
+}
+.txt_style{
+	width: 500px;
+	height: 300px;
+	margin-left:224px;
+	margin-top: 100px;
+}
+.txt_style ul li{
+	width: 400px;
+	height: 30px;
+	margin-bottom: 10px;
+}
+.span{
+	margin-right: 40px;
+}
+.txt_style div button{
+	margin-left: 201px;
+	margin-top: 30px;
+}
+.red{
+	color: #F73434;
+}
+#cccx{
+}
+.cccx_left{
+	float: left;
+	width: 400px;
+	height: 292px;
+	position: relative;
+	margin-top: 30px;
+	left: 20px;
+	border-right: 1px solid #D4CECE;
+}
+.cccx_left ul li{
+	width: 369px;
+	height: 30px;
+	margin-top: 102px;
+
+}
+.cccx_left div button{
+	margin-left: 166px;
+	margin-top: 35px;
+}
+.cccx_right{
+	left: 430px;
+	position: absolute;
+	margin-top: 42px;
+	margin-right: 4px;
+}
+.cccx_right span{
+	font-size: 10px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-right: 10px;
+}
+.font_style{
+	color: #636161;
+	font-size: 10px;
+}

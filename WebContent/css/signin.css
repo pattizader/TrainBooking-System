@@ -1,0 +1,46 @@
+.signin_content{
+	top: 220px;
+	position: absolute;
+	width: 100%;
+	height:600px;
+}
+.location{
+	margin-left: 30px;
+}
+.signin_panel{
+	width: 911px;
+	height: 550px;
+	left: 84px;
+	position: relative;
+	margin-top: 10px;
+	border:2px solid #3A88E2;
+	border-radius: 7px;
+}
+.signin_top{
+	height: 40px;
+	border-radius: 7px 7px 0 0;
+	background: #5793DD;
+	color: #FCFCFC;
+	font-size: 15px;
+	padding:10px 0 0 20px;
+}
+.signin_form{
+	height: 500px;
+}
+.table_style{
+	margin-top: 15px;
+}
+.signin_table{
+	margin-left: 157px;
+	margin-top: 30px;
+}
+.table_style td span{
+	margin-left: 30px;
+}
+.red{
+	color:#FC3D3D;
+}
+.signin_submit{
+	text-align: center;
+	margin-top: 30px
+}
